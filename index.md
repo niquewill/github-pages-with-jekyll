@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Queen's Coding Journey :crown:
 
-I'm glad you are here. I plan to talk about ...
+Think like a queen. A queen is not afraid to fail. Failure is another steppingstone to greatness. ~ Oprah
+
+I am a queen!  I am a queen!  If I keep saying it maybe i will believe it.  It is funny how the fear of failing will paralyze you.  You would think the joy of one foot in front of the other would be a simple task.  I look forward to this journey that I am on again, hoping for it to sink through.  Not just stay on the service but, pierce and satisfy my curiosity and quelch my thirst to prove to myself I can do this.  I look for inspiration and reasoning everywhere, literally giving myself reminders of the journey I'm on, that it can be done, and the time is now.  With every tutorial or minor page I'm able to generate, the excitement of hitting a homerun comes to mind.  I compare it to baseball for those that may not understand.  Baseball players play well over 100 games for each grueling season.  In the off season the work on their mechanics hoping to gain a fraction of a degree of change that can be the difference in their performance.  Yet, the reaction from the crowd and the look in their faces when they have hit a homer is like no other.  For now, I'm chasing that feeling hoping to get better and better at this thing called coding.
