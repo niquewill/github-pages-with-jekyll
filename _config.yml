@@ -16,4 +16,4 @@ Instagram: Go2GirlSqrd
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-leap-day
+theme: minima
